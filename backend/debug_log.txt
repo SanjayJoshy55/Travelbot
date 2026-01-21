@@ -1,4 +1,0 @@
-Fetching URL: https://api.opentripmap.com/0.1/en/places/radius
-Params: {'radius': 5000, 'lon': 12.51133, 'lat': 41.89193, 'kinds': 'museums', 'format': 'json', 'apikey': '5ae2e3f221c38a28845f05b6316bd8fe098868ad9f596a25ec774468'}
-Status: 200
-Response: {}

@@ -16,3 +16,5 @@ chroma_db/
 
 # Text files/Logs
 *.log
+debug_log.txt
+*.txt
