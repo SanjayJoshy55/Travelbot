@@ -18,7 +18,7 @@ class ConversationManager:
         # If we are in 'reviewing_itinerary' (set by Streamlit after generation)
         if current_state.get("stage") == "reviewing_itinerary":
             # Check sentiment
-            if any(x in message_lower for x in ["happy", "good", "yes", "great", "excellent", "love"]):
+            if any(x in message_lower for x in ["happy", "good", "yes", "great", "excellent", "love", "proceed", "continue", "next", "fine", "okay", "ok", "sure", "correct", "perfect", "booking", "go ahead", "awesome", "nice", "cool"]):
                 updated_state["stage"] = "collecting_origin"
                 return ("Glad you liked it! Let's plan your travel. Where are you starting your journey from?", updated_state, "collecting_origin")
             else:
