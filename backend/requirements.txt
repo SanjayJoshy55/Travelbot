@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+pydantic
+httpx
+python-dotenv
+chromadb
+sentence-transformers
+scikit-learn
+numpy
+google-generativeai
+wikipedia
+groq
+streamlit

@@ -1,0 +1,15 @@
+Testing API Key (detected as Groq API due to 'gsk_' prefix)...
+Target Model: llama-3.1-8b-instant
+
+--- API Response ---
+The physics of light speed, which is approximately 299,792 kilometers per second (km/s) or 186,282 miles per second (mi/s), revolves around special relativity, a fundamental concept proposed by Albert Einstein. According to this theory, the speed of light is a universal constant (c) and the same for all observers, regardless of their relative motion. This speed limit is not something that can be exceeded, even by objects with incredible mass, such as stars or galaxies. The faster an object moves, the more its energy and mass increase, which eventually leads to infinite energy and mass at light speed due to the equation E=mc², where E is energy, m is mass, and c is the speed of light.
+
+The consequences of light speed are often paradoxical and challenging to comprehend. For instance, when an object moves at light speed, time appears to slow down significantly for an observer watching from a stationary frame of reference, a phenomenon known as time dilation. Additionally, according to length contraction, the object would start to look shorter to the stationary observer due to the effects of special relativity. The impossibility of exceeding light speed also raises questions about how it is possible for some phenomena, such as electromagnetic waves (e.g., radio waves, X-rays, or light), to propagate through space at this incredible speed without violating the laws of physics. The mysteries surrounding light speed have sparked intense interest and research in the fields of physics and cosmology, driving our understanding of the universe further.
+--------------------
+
+Performance Stats:
+Request Duration: 1.2581 seconds
+Input Tokens: 46
+Output Tokens: 306
+Total Tokens: 352
+Approximate Throughput: 243.23 tokens/sec

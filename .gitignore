@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.venv
+modules_env
+.env
+
+# Javascript/Node
+node_modules/
+dist/
+.DS_Store
+
+# DB
+chroma_db/
+
+# Text files/Logs
+*.log

@@ -1,0 +1,367 @@
+{
+  "Paris": {
+    "destination": "Paris",
+    "geo": {
+      "lat": 48.85341,
+      "lon": 2.3488,
+      "name": "Paris"
+    },
+    "weather": {
+      "latitude": 48.822495,
+      "longitude": 2.2881355,
+      "generationtime_ms": 0.5555152893066406,
+      "utc_offset_seconds": 3600,
+      "timezone": "Europe/Paris",
+      "timezone_abbreviation": "GMT+1",
+      "elevation": 43.0,
+      "daily_units": {
+        "time": "iso8601",
+        "temperature_2m_max": "\u00b0C",
+        "temperature_2m_min": "\u00b0C",
+        "precipitation_sum": "mm"
+      },
+      "daily": {
+        "time": [
+          "2024-05-01",
+          "2024-05-02",
+          "2024-05-03",
+          "2024-05-04",
+          "2024-05-05",
+          "2024-05-06",
+          "2024-05-07"
+        ],
+        "temperature_2m_max": [
+          19.1,
+          14.9,
+          15.4,
+          14.8,
+          17.1,
+          16.9,
+          18.4
+        ],
+        "temperature_2m_min": [
+          11.4,
+          10.2,
+          8.6,
+          6.2,
+          9.8,
+          9.1,
+          7.9
+        ],
+        "precipitation_sum": [
+          1.9,
+          7.4,
+          2.6,
+          0.7,
+          1.7,
+          3.5,
+          1.1
+        ]
+      }
+    },
+    "attractions": [
+      {
+        "name": "Eiffel Tower",
+        "kinds": "architecture,landmarks",
+        "dict": 500
+      },
+      {
+        "name": "Louvre Museum",
+        "kinds": "museums,culture",
+        "dist": 1200
+      }
+    ]
+  },
+  "Tokyo": {
+    "destination": "Tokyo",
+    "geo": {
+      "lat": 35.6895,
+      "lon": 139.69171,
+      "name": "Tokyo"
+    },
+    "weather": {
+      "latitude": 35.676624,
+      "longitude": 139.69112,
+      "generationtime_ms": 5.201935768127441,
+      "utc_offset_seconds": 32400,
+      "timezone": "Asia/Tokyo",
+      "timezone_abbreviation": "GMT+9",
+      "elevation": 40.0,
+      "daily_units": {
+        "time": "iso8601",
+        "temperature_2m_max": "\u00b0C",
+        "temperature_2m_min": "\u00b0C",
+        "precipitation_sum": "mm"
+      },
+      "daily": {
+        "time": [
+          "2024-05-01",
+          "2024-05-02",
+          "2024-05-03",
+          "2024-05-04",
+          "2024-05-05",
+          "2024-05-06",
+          "2024-05-07"
+        ],
+        "temperature_2m_max": [
+          19.9,
+          19.9,
+          21.9,
+          26.5,
+          26.3,
+          22.2,
+          21.6
+        ],
+        "temperature_2m_min": [
+          12.6,
+          11.3,
+          9.3,
+          12.6,
+          12.9,
+          17.5,
+          18.8
+        ],
+        "precipitation_sum": [
+          37.3,
+          6.8,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          15.6
+        ]
+      }
+    },
+    "attractions": [
+      {
+        "name": "Senso-ji Temple",
+        "kinds": "religion,culture",
+        "dist": 500
+      },
+      {
+        "name": "Tokyo Skytree",
+        "kinds": "architecture,viewpoints",
+        "dist": 2000
+      }
+    ]
+  },
+  "London": {
+    "destination": "London",
+    "geo": {
+      "lat": 51.50853,
+      "lon": -0.12574,
+      "name": "London"
+    },
+    "weather": {
+      "latitude": 51.493847,
+      "longitude": -0.1630249,
+      "generationtime_ms": 0.40280818939208984,
+      "utc_offset_seconds": 0,
+      "timezone": "Europe/London",
+      "timezone_abbreviation": "GMT",
+      "elevation": 23.0,
+      "daily_units": {
+        "time": "iso8601",
+        "temperature_2m_max": "\u00b0C",
+        "temperature_2m_min": "\u00b0C",
+        "precipitation_sum": "mm"
+      },
+      "daily": {
+        "time": [
+          "2024-05-01",
+          "2024-05-02",
+          "2024-05-03",
+          "2024-05-04",
+          "2024-05-05",
+          "2024-05-06",
+          "2024-05-07"
+        ],
+        "temperature_2m_max": [
+          19.1,
+          19.6,
+          12.6,
+          15.4,
+          16.5,
+          15.2,
+          19.1
+        ],
+        "temperature_2m_min": [
+          8.0,
+          10.5,
+          8.5,
+          6.8,
+          6.1,
+          7.8,
+          8.6
+        ],
+        "precipitation_sum": [
+          0.1,
+          3.3,
+          8.2,
+          2.7,
+          0.3,
+          9.9,
+          0.3
+        ]
+      }
+    },
+    "attractions": [
+      {
+        "name": "Big Ben",
+        "kinds": "architecture,history",
+        "dist": 400
+      },
+      {
+        "name": "British Museum",
+        "kinds": "museums,culture",
+        "dist": 1500
+      }
+    ]
+  },
+  "New York": {
+    "destination": "New York",
+    "geo": {
+      "lat": 40.71427,
+      "lon": -74.00597,
+      "name": "New York"
+    },
+    "weather": {
+      "latitude": 40.738136,
+      "longitude": -74.04254,
+      "generationtime_ms": 6.110072135925293,
+      "utc_offset_seconds": -18000,
+      "timezone": "America/New_York",
+      "timezone_abbreviation": "GMT-5",
+      "elevation": 51.0,
+      "daily_units": {
+        "time": "iso8601",
+        "temperature_2m_max": "\u00b0C",
+        "temperature_2m_min": "\u00b0C",
+        "precipitation_sum": "mm"
+      },
+      "daily": {
+        "time": [
+          "2024-05-01",
+          "2024-05-02",
+          "2024-05-03",
+          "2024-05-04",
+          "2024-05-05",
+          "2024-05-06",
+          "2024-05-07"
+        ],
+        "temperature_2m_max": [
+          24.8,
+          27.8,
+          17.2,
+          16.5,
+          12.1,
+          22.6,
+          26.1
+        ],
+        "temperature_2m_min": [
+          10.4,
+          10.2,
+          9.8,
+          7.8,
+          9.1,
+          11.9,
+          12.2
+        ],
+        "precipitation_sum": [
+          1.5,
+          0.0,
+          0.0,
+          0.0,
+          8.9,
+          0.5,
+          0.0
+        ]
+      }
+    },
+    "attractions": [
+      {
+        "name": "Statue of Liberty",
+        "kinds": "landmarks,history",
+        "dist": 3000
+      },
+      {
+        "name": "Central Park",
+        "kinds": "parks,nature",
+        "dist": 500
+      }
+    ]
+  },
+  "Rome": {
+    "destination": "Rome",
+    "geo": {
+      "lat": 41.89193,
+      "lon": 12.51133,
+      "name": "Rome"
+    },
+    "weather": {
+      "latitude": 41.862915,
+      "longitude": 12.539912,
+      "generationtime_ms": 3.70180606842041,
+      "utc_offset_seconds": 3600,
+      "timezone": "Europe/Rome",
+      "timezone_abbreviation": "GMT+1",
+      "elevation": 54.0,
+      "daily_units": {
+        "time": "iso8601",
+        "temperature_2m_max": "\u00b0C",
+        "temperature_2m_min": "\u00b0C",
+        "precipitation_sum": "mm"
+      },
+      "daily": {
+        "time": [
+          "2024-05-01",
+          "2024-05-02",
+          "2024-05-03",
+          "2024-05-04",
+          "2024-05-05",
+          "2024-05-06",
+          "2024-05-07"
+        ],
+        "temperature_2m_max": [
+          19.0,
+          19.3,
+          17.3,
+          20.2,
+          22.2,
+          22.3,
+          22.1
+        ],
+        "temperature_2m_min": [
+          14.1,
+          9.9,
+          10.8,
+          8.9,
+          10.7,
+          11.1,
+          13.0
+        ],
+        "precipitation_sum": [
+          24.4,
+          19.3,
+          18.6,
+          0.0,
+          0.1,
+          0.0,
+          12.9
+        ]
+      }
+    },
+    "attractions": [
+      {
+        "name": "Colosseum",
+        "kinds": "history,architecture",
+        "dist": 600
+      },
+      {
+        "name": "Vatican City",
+        "kinds": "religion,culture",
+        "dist": 2000
+      }
+    ]
+  }
+}

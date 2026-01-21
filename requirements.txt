@@ -1,0 +1,14 @@
+streamlit
+groq
+wikipedia
+chromadb
+scikit-learn
+numpy
+fastapi
+uvicorn
+pydantic
+python-dotenv
+sentence-transformers
+google-generativeai
+pandas
+httpx
